@@ -1,0 +1,501 @@
+merchant_id,merchant_name,merchant_type,region,onboard_date,risk_score,merchant_age_days,cleaning_status
+merch1000,Anderson Inc,Grocery,North,14-01-2022,0.07,1390,Cleaned and Validated
+merch1001,"Rojas, Newton And White",Online,North,20-08-2021,0.29,1537,Cleaned and Validated
+merch1002,Knox-Reyes,Food,West,29-10-2024,0.2,371,Cleaned and Validated
+merch1003,"Joseph, Serrano And Gilmore",Grocery,North,22-07-2023,0.14,836,Cleaned and Validated
+merch1004,Brown-Jones,Food,North,02-01-2024,0.32,672,Cleaned and Validated
+merch1005,Russell-Jones,Food,North,15-12-2022,0.29,1055,Cleaned and Validated
+merch1006,Mckay-Dean,Electronics,East,03-06-2022,0.22,1250,Cleaned and Validated
+merch1007,Woodward-Tran,Food,West,13-05-2023,0.42,906,Cleaned and Validated
+merch1008,"Martinez, Osborn And Foster",Food,South,25-12-2024,0.15,314,Cleaned and Validated
+merch1009,Whitney-Stevenson,Food,East,04-09-2021,0.15,1522,Cleaned and Validated
+merch1010,"Moore, Christensen And Watson",Apparel,Central,17-10-2023,0.48,749,Cleaned and Validated
+merch1011,Taylor-Lopez,Electronics,South,12-06-2022,0.09,1241,Cleaned and Validated
+merch1012,Williams Ltd,Grocery,North,03-12-2023,0.15,702,Cleaned and Validated
+merch1013,"Norman, Keller And Hudson",Apparel,East,08-09-2024,0.26,422,Cleaned and Validated
+merch1014,Osborn-Washington,Electronics,North,23-08-2022,0.27,1169,Cleaned and Validated
+merch1015,Marshall And Sons,Electronics,East,05-03-2024,0.12,609,Cleaned and Validated
+merch1016,Anderson-Keller,Online,West,31-12-2024,0.34,308,Cleaned and Validated
+merch1017,Torres-Gonzalez,Transport,North,27-12-2022,0.13,1043,Cleaned and Validated
+merch1018,Calderon Inc,Apparel,West,15-08-2021,0.15,1542,Cleaned and Validated
+merch1019,Leonard Llc,Transport,South,20-09-2020,0.17,1871,Cleaned and Validated
+merch1020,Newton Ltd,Apparel,East,10-07-2021,0.03,1578,Cleaned and Validated
+merch1021,Martinez-Garcia,Food,South,12-02-2025,0.28,265,Cleaned and Validated
+merch1022,Love And Sons,Electronics,West,16-09-2022,0.02,1145,Cleaned and Validated
+merch1023,Mcbride And Sons,Apparel,North,20-07-2023,0.16,838,Cleaned and Validated
+merch1024,"Rodriguez, Mitchell And Cooper",Apparel,East,12-01-2021,0.03,1757,Cleaned and Validated
+merch1025,"Vargas, Washington And Stevenson",Grocery,East,14-08-2021,0.16,1543,Cleaned and Validated
+merch1026,Gutierrez-Burton,Apparel,North,06-05-2024,0.18,547,Cleaned and Validated
+merch1027,Jackson Group,Transport,South,29-07-2022,0.46,1194,Cleaned and Validated
+merch1028,Molina Inc,Apparel,South,14-08-2021,0.23,1543,Cleaned and Validated
+merch1029,Farmer-Marquez,Grocery,North,20-06-2023,0.02,868,Cleaned and Validated
+merch1030,Taylor-Lawson,Apparel,East,13-11-2022,0.26,1087,Cleaned and Validated
+merch1031,"Gross, Gonzalez And Stone",Apparel,North,26-05-2021,0.27,1623,Cleaned and Validated
+merch1032,Casey-Avila,Grocery,Central,11-08-2024,0.25,450,Cleaned and Validated
+merch1033,Hill-Williams,Food,East,18-07-2022,0.07,1205,Cleaned and Validated
+merch1034,Lambert And Sons,Food,North,12-04-2025,0.06,206,Cleaned and Validated
+merch1035,Hines-Fitzgerald,Transport,Central,01-06-2022,0.15,1252,Cleaned and Validated
+merch1036,Cabrera-Parks,Food,West,31-03-2023,0.08,949,Cleaned and Validated
+merch1037,"Austin, Washington And Barr",Online,East,19-05-2021,0.29,1630,Cleaned and Validated
+merch1038,Mcmahon-Cabrera,Transport,Central,27-09-2022,0,1134,Cleaned and Validated
+merch1039,Skinner Ltd,Electronics,West,09-04-2023,0.04,940,Cleaned and Validated
+merch1040,"Horne, Rice And Olson",Transport,North,24-06-2023,0.29,864,Cleaned and Validated
+merch1041,Kelley-Stewart,Grocery,West,28-09-2020,0.13,1863,Cleaned and Validated
+merch1042,"Martin, Campbell And Perez",Apparel,South,01-11-2022,0,1099,Cleaned and Validated
+merch1043,"Pratt, Mcneil And Callahan",Apparel,West,23-04-2024,0.29,560,Cleaned and Validated
+merch1044,May-Schultz,Apparel,East,01-12-2022,0.5,1069,Cleaned and Validated
+merch1045,Brown Ltd,Electronics,West,12-11-2024,0.26,357,Cleaned and Validated
+merch1046,"Serrano, Moss And Williams",Electronics,Central,12-02-2022,0.29,1361,Cleaned and Validated
+merch1047,Goodman-Lee,Apparel,North,15-07-2025,0.02,112,Cleaned and Validated
+merch1048,Brooks-Scott,Grocery,West,24-05-2023,0.32,895,Cleaned and Validated
+merch1049,Gibson-Brooks,Grocery,North,03-05-2025,0.09,185,Cleaned and Validated
+merch1050,Lynn And Sons,Electronics,North,15-12-2021,0.07,1420,Cleaned and Validated
+merch1051,"Calhoun, Riley And Stewart",Transport,East,03-01-2025,0.23,305,Cleaned and Validated
+merch1052,Pratt-Adkins,Electronics,North,27-06-2025,0.33,130,Cleaned and Validated
+merch1053,Simmons-Bishop,Grocery,South,27-04-2021,0.1,1652,Cleaned and Validated
+merch1054,White Llc,Apparel,West,22-05-2024,0.15,531,Cleaned and Validated
+merch1055,"Young, Miller And Hopkins",Electronics,East,21-03-2025,0.09,228,Cleaned and Validated
+merch1056,Gutierrez-Williams,Grocery,East,06-11-2024,0.22,363,Cleaned and Validated
+merch1057,Ward Llc,Transport,East,21-04-2021,0.28,1658,Cleaned and Validated
+merch1058,Mcclure Plc,Transport,West,09-10-2022,0.1,1122,Cleaned and Validated
+merch1059,Terry Ltd,Grocery,South,18-03-2022,0.29,1327,Cleaned and Validated
+merch1060,Allen Plc,Food,North,03-09-2023,0,793,Cleaned and Validated
+merch1061,Alexander Llc,Grocery,Central,03-03-2021,0.14,1707,Cleaned and Validated
+merch1062,Olson-Rose,Online,Central,21-01-2024,0.18,653,Cleaned and Validated
+merch1063,Miles Llc,Apparel,Central,12-06-2025,0.03,145,Cleaned and Validated
+merch1064,Hughes-Figueroa,Electronics,West,04-04-2021,0.13,1675,Cleaned and Validated
+merch1065,"Cox, Davis And Murphy",Grocery,South,06-01-2021,0,1763,Cleaned and Validated
+merch1066,"Mays, Lee And Summers",Online,South,13-06-2021,0.09,1605,Cleaned and Validated
+merch1067,Garrison-Simpson,Electronics,East,01-08-2022,0.27,1191,Cleaned and Validated
+merch1068,Greene-Williams,Grocery,North,28-01-2021,0.03,1741,Cleaned and Validated
+merch1069,Weeks-Thomas,Online,North,12-06-2023,0,876,Cleaned and Validated
+merch1070,Flores-Hardy,Online,Central,24-02-2023,0.09,984,Cleaned and Validated
+merch1071,"Johnson, Hudson And Collier",Food,Central,15-11-2024,0.1,354,Cleaned and Validated
+merch1072,"Garcia, Vang And Gibson",Transport,North,19-03-2023,0.21,961,Cleaned and Validated
+merch1073,Pearson Plc,Electronics,West,18-02-2024,0.3,625,Cleaned and Validated
+merch1074,"Potts, Jones And Brown",Apparel,South,07-06-2024,0.17,515,Cleaned and Validated
+merch1075,Jones Group,Food,North,14-07-2022,0,1209,Cleaned and Validated
+merch1076,Miller Inc,Apparel,South,02-01-2025,0.36,306,Cleaned and Validated
+merch1077,Gutierrez Plc,Apparel,Central,12-06-2021,0.05,1606,Cleaned and Validated
+merch1078,Sanchez-Bennett,Apparel,East,07-02-2024,0.1,636,Cleaned and Validated
+merch1079,Brown Inc,Food,Central,19-11-2022,0.38,1081,Cleaned and Validated
+merch1080,Wilson Inc,Food,West,04-05-2023,0.16,915,Cleaned and Validated
+merch1081,Gray-Spencer,Grocery,Central,17-12-2023,0.26,688,Cleaned and Validated
+merch1082,Smith-Campbell,Grocery,West,15-01-2021,0.15,1754,Cleaned and Validated
+merch1083,Richards Inc,Online,West,12-06-2022,0.35,1241,Cleaned and Validated
+merch1084,Brown-Stevens,Online,South,26-04-2021,0.33,1653,Cleaned and Validated
+merch1085,"Garner, Barker And Miller",Online,South,24-05-2023,0.04,895,Cleaned and Validated
+merch1086,Hill-Ford,Food,East,10-11-2020,0.25,1820,Cleaned and Validated
+merch1087,"Jordan, Cisneros And Brown",Electronics,South,20-06-2024,0.05,502,Cleaned and Validated
+merch1088,"Blanchard, Salazar And Miles",Transport,Central,16-08-2024,0.15,445,Cleaned and Validated
+merch1089,"Kirk, Robinson And Gamble",Online,East,21-04-2022,0.16,1293,Cleaned and Validated
+merch1090,"Mayo, Beck And Foster",Food,East,06-05-2022,0.06,1278,Cleaned and Validated
+merch1091,Anderson-Guerrero,Electronics,Central,16-09-2023,0.42,780,Cleaned and Validated
+merch1092,Moss Plc,Online,East,05-02-2021,0.33,1733,Cleaned and Validated
+merch1093,Shaw-Collins,Grocery,East,17-08-2020,0,1905,Cleaned and Validated
+merch1094,Hunt-Bowen,Grocery,East,23-07-2025,0.22,104,Cleaned and Validated
+merch1095,Zhang-Harvey,Apparel,Central,20-04-2021,0.26,1659,Cleaned and Validated
+merch1096,Thomas-Collins,Electronics,South,09-02-2025,0.17,268,Cleaned and Validated
+merch1097,Williams Group,Grocery,North,25-11-2024,0.11,344,Cleaned and Validated
+merch1098,Harding-Navarro,Online,South,27-02-2021,0.34,1711,Cleaned and Validated
+merch1099,Hernandez Group,Apparel,North,05-01-2025,0.19,303,Cleaned and Validated
+merch1100,Trevino And Sons,Food,East,25-07-2022,0.26,1198,Cleaned and Validated
+merch1101,"Jarvis, Howard And Lee",Online,South,04-07-2025,0.12,123,Cleaned and Validated
+merch1102,"Conrad, Smith And Navarro",Online,West,21-08-2024,0.09,440,Cleaned and Validated
+merch1103,Curtis Ltd,Apparel,East,30-04-2023,0.14,919,Cleaned and Validated
+merch1104,"English, Washington And Johnson",Food,East,13-01-2023,0.42,1026,Cleaned and Validated
+merch1105,"Meza, Brown And Daniel",Apparel,South,04-04-2022,0.41,1310,Cleaned and Validated
+merch1106,"Porter, Richmond And Turner",Transport,South,21-01-2024,0.08,653,Cleaned and Validated
+merch1107,"Bell, Salazar And Nguyen",Electronics,East,15-10-2020,0.04,1846,Cleaned and Validated
+merch1108,Osborn And Sons,Transport,Central,27-06-2022,0.2,1226,Cleaned and Validated
+merch1109,"Boyd, Welch And Henry",Transport,West,05-10-2023,0.13,761,Cleaned and Validated
+merch1110,"Jackson, Miller And Gibbs",Online,Central,28-08-2024,0.18,433,Cleaned and Validated
+merch1111,"Riddle, Miranda And Reyes",Online,East,09-06-2023,0.02,879,Cleaned and Validated
+merch1112,Blackburn-Kerr,Apparel,Central,08-03-2025,0.14,241,Cleaned and Validated
+merch1113,Woods-Stewart,Apparel,North,09-04-2023,0.4,940,Cleaned and Validated
+merch1114,Smith-Mays,Food,East,23-09-2023,0.28,773,Cleaned and Validated
+merch1115,"Ross, Sparks And Payne",Online,North,29-11-2024,0.22,340,Cleaned and Validated
+merch1116,"Travis, Wood And Glenn",Food,Central,21-09-2023,0.26,775,Cleaned and Validated
+merch1117,King Inc,Apparel,West,23-08-2021,0.31,1534,Cleaned and Validated
+merch1118,Todd-Howard,Food,North,03-02-2022,0.1,1370,Cleaned and Validated
+merch1119,Hernandez-Vazquez,Apparel,West,16-12-2022,0.28,1054,Cleaned and Validated
+merch1120,Norris Llc,Transport,East,01-08-2022,0.23,1191,Cleaned and Validated
+merch1121,Valentine-Waller,Food,Central,13-12-2024,0.18,326,Cleaned and Validated
+merch1122,Harding-Long,Apparel,West,25-08-2023,0.04,802,Cleaned and Validated
+merch1123,"Boyd, Jackson And Hansen",Electronics,West,17-03-2025,0.11,232,Cleaned and Validated
+merch1124,King-Holder,Electronics,West,26-02-2023,0.25,982,Cleaned and Validated
+merch1125,"Lopez, Evans And Hooper",Grocery,South,20-07-2023,0.31,838,Cleaned and Validated
+merch1126,Mullins-Brown,Apparel,North,04-07-2021,0.16,1584,Cleaned and Validated
+merch1127,Stevens-Cole,Food,South,26-01-2022,0.5,1378,Cleaned and Validated
+merch1128,"Mercado, Santiago And Perez",Electronics,West,10-07-2025,0.34,117,Cleaned and Validated
+merch1129,Harris Group,Transport,North,21-08-2024,0.08,440,Cleaned and Validated
+merch1130,Nunez-Parker,Transport,Central,12-02-2024,0.24,631,Cleaned and Validated
+merch1131,"Perry, Stewart And Smith",Online,West,08-02-2024,0.14,635,Cleaned and Validated
+merch1132,"Jones, Heath And Kemp",Grocery,East,14-03-2021,0.35,1696,Cleaned and Validated
+merch1133,"Dougherty, Reynolds And Howell",Electronics,South,10-02-2024,0.16,633,Cleaned and Validated
+merch1134,Montoya-Lara,Transport,North,27-05-2024,0.31,526,Cleaned and Validated
+merch1135,"Garza, Mercado And Smith",Apparel,South,11-06-2023,0.14,877,Cleaned and Validated
+merch1136,Gardner-Parrish,Transport,West,06-12-2021,0.22,1429,Cleaned and Validated
+merch1137,Lloyd Group,Electronics,Central,16-10-2021,0.09,1480,Cleaned and Validated
+merch1138,"Jones, Adams And Stanley",Apparel,Central,18-02-2025,0.17,259,Cleaned and Validated
+merch1139,Rodriguez-Fitzpatrick,Online,West,23-08-2024,0.13,438,Cleaned and Validated
+merch1140,Sullivan-Walker,Online,South,26-06-2022,0.25,1227,Cleaned and Validated
+merch1141,Price Group,Apparel,North,06-01-2021,0.42,1763,Cleaned and Validated
+merch1142,Sanchez-Rodriguez,Online,West,03-10-2023,0.27,763,Cleaned and Validated
+merch1143,"Williams, Walker And Schwartz",Food,Central,07-04-2022,0.22,1307,Cleaned and Validated
+merch1144,Parks Ltd,Apparel,Central,09-05-2022,0.26,1275,Cleaned and Validated
+merch1145,Li-Hunt,Transport,South,26-09-2021,0.36,1500,Cleaned and Validated
+merch1146,Nelson Ltd,Grocery,South,25-08-2024,0.12,436,Cleaned and Validated
+merch1147,Holder Ltd,Online,East,02-01-2021,0.2,1767,Cleaned and Validated
+merch1148,"Thomas, Beasley And Caldwell",Grocery,North,15-02-2025,0.18,262,Cleaned and Validated
+merch1149,"Webster, Massey And Gillespie",Grocery,West,08-02-2021,0.39,1730,Cleaned and Validated
+merch1150,"Martin, Le And Benson",Apparel,East,16-10-2023,0.1,750,Cleaned and Validated
+merch1151,"Wilkerson, Copeland And Wells",Food,North,18-10-2024,0.28,382,Cleaned and Validated
+merch1152,"Clark, Petty And Allen",Food,North,29-12-2021,0.24,1406,Cleaned and Validated
+merch1153,Miller And Sons,Online,East,24-12-2021,0.34,1411,Cleaned and Validated
+merch1154,Diaz-Jacobs,Online,East,24-12-2020,0.11,1776,Cleaned and Validated
+merch1155,"Martin, Chavez And Williams",Apparel,East,09-12-2021,0,1426,Cleaned and Validated
+merch1156,Howard Inc,Food,North,14-04-2024,0.02,569,Cleaned and Validated
+merch1157,Berry Inc,Grocery,East,21-04-2023,0.06,928,Cleaned and Validated
+merch1158,Jones-Perez,Apparel,West,22-02-2025,0.16,255,Cleaned and Validated
+merch1159,Gonzalez Plc,Food,Central,26-09-2020,0.34,1865,Cleaned and Validated
+merch1160,"Cook, Wilson And Sutton",Grocery,West,22-01-2021,0.1,1747,Cleaned and Validated
+merch1161,Cook-Lawson,Online,East,01-04-2025,0.1,217,Cleaned and Validated
+merch1162,Hendricks-Avery,Food,East,19-08-2022,0.25,1173,Cleaned and Validated
+merch1163,Cardenas And Sons,Online,Central,07-12-2023,0.1,698,Cleaned and Validated
+merch1164,Huang-Johnson,Online,West,24-06-2023,0.25,864,Cleaned and Validated
+merch1165,Ramos Ltd,Transport,North,17-04-2024,0.12,566,Cleaned and Validated
+merch1166,"Andrade, Lynch And Compton",Transport,West,20-12-2023,0.41,685,Cleaned and Validated
+merch1167,Proctor-Myers,Transport,West,09-06-2021,0.27,1609,Cleaned and Validated
+merch1168,Moore Llc,Food,North,24-05-2025,0.15,164,Cleaned and Validated
+merch1169,"Garcia, Schneider And Jimenez",Grocery,East,30-11-2023,0.03,705,Cleaned and Validated
+merch1170,"Melendez, Bryant And Dunlap",Transport,Central,21-12-2022,0.36,1049,Cleaned and Validated
+merch1171,Shaw-Andrews,Grocery,North,21-09-2024,0,409,Cleaned and Validated
+merch1172,Jackson Group,Electronics,East,19-04-2022,0,1295,Cleaned and Validated
+merch1173,Perez-Hernandez,Food,South,09-12-2024,0.3,330,Cleaned and Validated
+merch1174,Taylor Ltd,Online,Central,04-06-2021,0.13,1614,Cleaned and Validated
+merch1175,"Smith, Sloan And Hines",Apparel,West,06-10-2021,0.13,1490,Cleaned and Validated
+merch1176,Lozano-Andrews,Online,East,28-11-2023,0.12,707,Cleaned and Validated
+merch1177,Moore-Rose,Grocery,Central,27-11-2021,0,1438,Cleaned and Validated
+merch1178,"Mcdonald, Jones And Patrick",Electronics,West,31-05-2025,0.41,157,Cleaned and Validated
+merch1179,Boyd Inc,Online,Central,27-09-2024,0.04,403,Cleaned and Validated
+merch1180,Smith-Roberts,Transport,North,29-12-2023,0.25,676,Cleaned and Validated
+merch1181,"Shelton, Rubio And Ferrell",Online,South,25-06-2024,0,497,Cleaned and Validated
+merch1182,"Garcia, Novak And Duran",Grocery,North,05-03-2025,0.17,244,Cleaned and Validated
+merch1183,Vargas And Sons,Apparel,Central,04-04-2025,0.22,214,Cleaned and Validated
+merch1184,Clayton-Smith,Online,Central,06-10-2020,0.18,1855,Cleaned and Validated
+merch1185,Silva Plc,Online,Central,24-12-2024,0.43,315,Cleaned and Validated
+merch1186,"Gray, Weeks And Horton",Electronics,North,22-09-2022,0.14,1139,Cleaned and Validated
+merch1187,Barker-Stone,Electronics,West,15-05-2022,0,1269,Cleaned and Validated
+merch1188,Guerra Plc,Electronics,South,11-11-2022,0.06,1089,Cleaned and Validated
+merch1189,Johnson-Petersen,Food,South,24-10-2021,0.33,1472,Cleaned and Validated
+merch1190,Flores-Porter,Transport,West,17-03-2022,0.17,1328,Cleaned and Validated
+merch1191,Sweeney Inc,Transport,West,16-06-2023,0.23,872,Cleaned and Validated
+merch1192,Snyder-Wright,Transport,North,07-03-2025,0.1,242,Cleaned and Validated
+merch1193,Ramirez-Robinson,Transport,West,20-06-2022,0.36,1233,Cleaned and Validated
+merch1194,"Joyce, Harvey And Diaz",Transport,North,13-01-2024,0.31,661,Cleaned and Validated
+merch1195,Buck Group,Transport,Central,02-08-2021,0.23,1555,Cleaned and Validated
+merch1196,Mccoy Inc,Apparel,West,26-06-2022,0.08,1227,Cleaned and Validated
+merch1197,"Washington, Stone And Knox",Electronics,North,09-02-2024,0.2,634,Cleaned and Validated
+merch1198,Washington Ltd,Food,South,05-05-2023,0.28,914,Cleaned and Validated
+merch1199,"Barnes, Hammond And Callahan",Apparel,Central,06-06-2025,0.15,151,Cleaned and Validated
+merch1200,Gutierrez-Mitchell,Electronics,East,09-03-2022,0.27,1336,Cleaned and Validated
+merch1201,"Garcia, Mann And Sharp",Grocery,West,04-01-2025,0.12,304,Cleaned and Validated
+merch1202,"Lewis, Thomas And Jones",Food,North,22-06-2024,0.06,500,Cleaned and Validated
+merch1203,"Durham, Miller And Lara",Apparel,West,23-07-2021,0.06,1565,Cleaned and Validated
+merch1204,"Cohen, Roach And Hawkins",Apparel,West,02-12-2020,0.08,1798,Cleaned and Validated
+merch1205,"Ingram, Holt And Lee",Electronics,South,29-11-2024,0.11,340,Cleaned and Validated
+merch1206,Gonzales Llc,Apparel,South,15-08-2024,0.09,446,Cleaned and Validated
+merch1207,Smith-Frey,Grocery,Central,31-05-2022,0,1253,Cleaned and Validated
+merch1208,"Smith, Johnson And Combs",Grocery,East,05-10-2023,0.2,761,Cleaned and Validated
+merch1209,Garner-Perez,Electronics,West,04-10-2022,0.37,1127,Cleaned and Validated
+merch1210,Bradley-Ferguson,Grocery,North,27-12-2020,0.11,1773,Cleaned and Validated
+merch1211,Wiley And Sons,Food,Central,14-03-2025,0.19,235,Cleaned and Validated
+merch1212,Logan-Zuniga,Apparel,North,18-12-2024,0.2,321,Cleaned and Validated
+merch1213,Nielsen-Oconnell,Electronics,East,21-01-2025,0.19,287,Cleaned and Validated
+merch1214,Hampton-Edwards,Grocery,Central,28-09-2021,0.22,1498,Cleaned and Validated
+merch1215,"Hayes, Martin And Nguyen",Food,West,25-11-2023,0.09,710,Cleaned and Validated
+merch1216,Wiggins Inc,Apparel,Central,09-02-2024,0.21,634,Cleaned and Validated
+merch1217,Levine-King,Food,East,09-04-2021,0.25,1670,Cleaned and Validated
+merch1218,"Miller, Fowler And Davila",Electronics,South,04-04-2022,0.15,1310,Cleaned and Validated
+merch1219,Martin-Hayes,Food,South,24-10-2024,0.16,376,Cleaned and Validated
+merch1220,Ortega Group,Transport,North,05-10-2023,0.13,761,Cleaned and Validated
+merch1221,"Rhodes, Nielsen And Shea",Transport,North,08-11-2024,0.17,361,Cleaned and Validated
+merch1222,Miller-Wheeler,Online,Central,11-11-2020,0,1819,Cleaned and Validated
+merch1223,Williams-Salinas,Food,West,09-08-2024,0.07,452,Cleaned and Validated
+merch1224,"Cole, Cooley And Thompson",Electronics,South,03-03-2025,0.04,246,Cleaned and Validated
+merch1225,Wong Group,Grocery,West,12-04-2021,0.37,1667,Cleaned and Validated
+merch1226,Jefferson Group,Electronics,Central,18-01-2022,0.17,1386,Cleaned and Validated
+merch1227,Macdonald-York,Grocery,West,06-05-2024,0.4,547,Cleaned and Validated
+merch1228,"Smith, Martin And Ward",Grocery,South,27-02-2022,0.45,1346,Cleaned and Validated
+merch1229,Mendoza-Beasley,Online,North,12-01-2021,0.19,1757,Cleaned and Validated
+merch1230,Oconnor Ltd,Food,East,14-06-2024,0.11,508,Cleaned and Validated
+merch1231,"Rodriguez, White And Walker",Electronics,East,15-04-2024,0,568,Cleaned and Validated
+merch1232,Rodriguez Llc,Electronics,South,13-01-2022,0.16,1391,Cleaned and Validated
+merch1233,Sweeney-Park,Transport,Central,17-09-2022,0.28,1144,Cleaned and Validated
+merch1234,Walsh And Sons,Apparel,East,21-05-2022,0.06,1263,Cleaned and Validated
+merch1235,"Navarro, Foster And Conley",Grocery,North,25-11-2021,0.05,1440,Cleaned and Validated
+merch1236,Ramirez Plc,Online,Central,01-01-2025,0.25,307,Cleaned and Validated
+merch1237,"Thompson, Stone And Hart",Electronics,East,09-02-2023,0.12,999,Cleaned and Validated
+merch1238,Nelson-Parker,Transport,South,29-09-2020,0,1862,Cleaned and Validated
+merch1239,Stone Inc,Food,East,30-06-2021,0.09,1588,Cleaned and Validated
+merch1240,"Mendoza, Smith And Scott",Food,East,01-11-2022,0.2,1099,Cleaned and Validated
+merch1241,Jensen-Sweeney,Online,West,29-02-2024,0.15,614,Cleaned and Validated
+merch1242,"Humphrey, Rodriguez And Beck",Apparel,South,09-04-2025,0.37,209,Cleaned and Validated
+merch1243,"Mclaughlin, Scott And Bell",Online,East,28-11-2023,0,707,Cleaned and Validated
+merch1244,Leblanc Plc,Electronics,East,03-04-2025,0.15,215,Cleaned and Validated
+merch1245,West Group,Online,North,17-10-2021,0.26,1479,Cleaned and Validated
+merch1246,Edwards And Sons,Apparel,North,11-10-2023,0.21,755,Cleaned and Validated
+merch1247,Hall-Davis,Electronics,South,01-11-2021,0.04,1464,Cleaned and Validated
+merch1248,Thomas-Stewart,Apparel,Central,13-08-2023,0.08,814,Cleaned and Validated
+merch1249,"Fuentes, Garcia And Mendez",Electronics,Central,13-11-2024,0.08,356,Cleaned and Validated
+merch1250,Kline Plc,Electronics,Central,23-12-2022,0.28,1047,Cleaned and Validated
+merch1251,"Bush, Smith And Crawford",Food,East,15-12-2021,0.39,1420,Cleaned and Validated
+merch1252,Franklin Llc,Grocery,East,29-06-2023,0.02,859,Cleaned and Validated
+merch1253,"Cooper, Pierce And Collins",Apparel,North,28-08-2020,0.17,1894,Cleaned and Validated
+merch1254,Perkins-Ballard,Grocery,West,22-06-2021,0.21,1596,Cleaned and Validated
+merch1255,Williams Group,Apparel,South,24-01-2025,0.17,284,Cleaned and Validated
+merch1256,Torres Ltd,Online,Central,11-06-2024,0.21,511,Cleaned and Validated
+merch1257,"Shields, Sexton And Petersen",Apparel,East,16-01-2022,0.01,1388,Cleaned and Validated
+merch1258,Steele Group,Grocery,Central,03-11-2024,0.15,366,Cleaned and Validated
+merch1259,"Bailey, Johnson And Snyder",Food,North,17-05-2024,0.32,536,Cleaned and Validated
+merch1260,"Swanson, Riley And Boyd",Transport,East,06-02-2025,0.28,271,Cleaned and Validated
+merch1261,"Gardner, Wright And Wong",Grocery,North,19-08-2022,0.11,1173,Cleaned and Validated
+merch1262,Collins-Craig,Online,West,06-01-2024,0.2,668,Cleaned and Validated
+merch1263,"Leonard, Washington And Rodriguez",Online,Central,11-03-2024,0.47,603,Cleaned and Validated
+merch1264,"Hughes, Alvarez And Rivera",Electronics,South,17-07-2023,0,841,Cleaned and Validated
+merch1265,Singh-Hanson,Food,West,16-04-2021,0.31,1663,Cleaned and Validated
+merch1266,"White, Carter And Long",Apparel,Central,29-09-2020,0.1,1862,Cleaned and Validated
+merch1267,Rodriguez Inc,Food,Central,15-12-2022,0.09,1055,Cleaned and Validated
+merch1268,Ortiz And Sons,Transport,East,08-04-2021,0.09,1671,Cleaned and Validated
+merch1269,Faulkner And Sons,Online,South,14-02-2024,0.07,629,Cleaned and Validated
+merch1270,"Dominguez, Luna And Bryan",Transport,West,08-04-2024,0.25,575,Cleaned and Validated
+merch1271,Watkins-Patton,Transport,East,01-05-2025,0.27,187,Cleaned and Validated
+merch1272,"Singh, Murphy And Lee",Online,South,23-01-2022,0.28,1381,Cleaned and Validated
+merch1273,Martinez-Mahoney,Food,West,09-03-2025,0.15,240,Cleaned and Validated
+merch1274,Jones-Garcia,Online,North,21-12-2024,0.14,318,Cleaned and Validated
+merch1275,Santiago-Stevens,Electronics,North,12-09-2022,0.09,1149,Cleaned and Validated
+merch1276,Manning Llc,Electronics,South,16-06-2024,0.17,506,Cleaned and Validated
+merch1277,Holder-Camacho,Food,South,01-06-2021,0.08,1617,Cleaned and Validated
+merch1278,Brown-Bryant,Electronics,East,17-08-2021,0.06,1540,Cleaned and Validated
+merch1279,"Elliott, Craig And Morales",Online,East,14-01-2023,0.04,1025,Cleaned and Validated
+merch1280,"Davis, Kelly And Sanchez",Apparel,Central,11-02-2024,0,632,Cleaned and Validated
+merch1281,Bryant Ltd,Electronics,East,11-02-2024,0.11,632,Cleaned and Validated
+merch1282,"Warren, Montoya And Hodge",Grocery,South,05-01-2023,0.42,1034,Cleaned and Validated
+merch1283,"Harper, Doyle And Fernandez",Grocery,West,16-10-2022,0.35,1115,Cleaned and Validated
+merch1284,Hart-Perez,Online,East,23-06-2023,0.2,865,Cleaned and Validated
+merch1285,Ortiz And Sons,Transport,West,02-04-2022,0.3,1312,Cleaned and Validated
+merch1286,"Harper, Jimenez And Curtis",Transport,Central,13-10-2024,0.08,387,Cleaned and Validated
+merch1287,"Murray, Valentine And Wiley",Electronics,West,03-07-2023,0.21,855,Cleaned and Validated
+merch1288,Williamson-Williams,Electronics,West,04-07-2022,0.08,1219,Cleaned and Validated
+merch1289,Bryan Ltd,Food,East,17-03-2024,0.26,597,Cleaned and Validated
+merch1290,Benjamin Inc,Food,North,04-01-2022,0.32,1400,Cleaned and Validated
+merch1291,"Randolph, Soto And Wells",Electronics,Central,24-07-2025,0.2,103,Cleaned and Validated
+merch1292,Ho Plc,Electronics,South,30-12-2022,0.49,1040,Cleaned and Validated
+merch1293,Cooper Llc,Apparel,North,28-11-2022,0.09,1072,Cleaned and Validated
+merch1294,Burke Ltd,Online,North,01-01-2025,0.12,307,Cleaned and Validated
+merch1295,"Davenport, Wilson And Allen",Apparel,West,19-01-2023,0.06,1020,Cleaned and Validated
+merch1296,Watson Plc,Food,North,17-10-2021,0.12,1479,Cleaned and Validated
+merch1297,Baker-Thompson,Food,North,25-04-2023,0.09,924,Cleaned and Validated
+merch1298,Anthony-Hanson,Apparel,East,20-11-2020,0.12,1810,Cleaned and Validated
+merch1299,Diaz-Duran,Electronics,South,08-01-2023,0.36,1031,Cleaned and Validated
+merch1300,"Young, Davies And Miller",Electronics,Central,14-02-2025,0.28,263,Cleaned and Validated
+merch1301,Koch-Miller,Apparel,South,23-10-2020,0.18,1838,Cleaned and Validated
+merch1302,Green-Horton,Electronics,North,02-12-2021,0.48,1433,Cleaned and Validated
+merch1303,Newman-Thompson,Transport,East,22-10-2024,0.28,378,Cleaned and Validated
+merch1304,"Brown, James And Gonzalez",Food,North,19-12-2023,0.12,686,Cleaned and Validated
+merch1305,"Ortiz, Gordon And Lutz",Electronics,East,01-01-2022,0.29,1403,Cleaned and Validated
+merch1306,Steele Plc,Transport,East,23-09-2021,0.27,1503,Cleaned and Validated
+merch1307,Mcconnell Ltd,Apparel,Central,08-10-2023,0.33,758,Cleaned and Validated
+merch1308,Watkins Group,Transport,South,23-11-2024,0.22,346,Cleaned and Validated
+merch1309,"Cooper, Harper And Kim",Apparel,North,18-12-2020,0.14,1782,Cleaned and Validated
+merch1310,Donaldson-Patel,Apparel,North,11-11-2024,0.02,358,Cleaned and Validated
+merch1311,Cooper Inc,Electronics,North,30-08-2021,0.12,1527,Cleaned and Validated
+merch1312,Smith-Davis,Transport,South,27-12-2022,0.27,1043,Cleaned and Validated
+merch1313,"Scott, Rogers And Morales",Online,South,26-03-2022,0.34,1319,Cleaned and Validated
+merch1314,Ortiz Plc,Electronics,East,24-03-2021,0,1686,Cleaned and Validated
+merch1315,Robertson-Wallace,Electronics,North,15-07-2023,0.27,843,Cleaned and Validated
+merch1316,Watson-Morgan,Transport,North,09-08-2021,0.18,1548,Cleaned and Validated
+merch1317,Schneider-Williams,Food,East,20-07-2021,0.18,1568,Cleaned and Validated
+merch1318,"Rodriguez, Doyle And Russell",Online,North,24-11-2022,0.17,1076,Cleaned and Validated
+merch1319,Diaz-Davis,Online,Central,11-09-2023,0.25,785,Cleaned and Validated
+merch1320,Rivas Llc,Transport,South,18-02-2024,0,625,Cleaned and Validated
+merch1321,Robertson Plc,Electronics,East,03-04-2022,0.22,1311,Cleaned and Validated
+merch1322,Knox Group,Electronics,South,28-05-2024,0.03,525,Cleaned and Validated
+merch1323,Arroyo Llc,Grocery,Central,09-09-2023,0.11,787,Cleaned and Validated
+merch1324,"Thompson, Miller And Richard",Grocery,East,17-03-2023,0.25,963,Cleaned and Validated
+merch1325,Baker And Sons,Apparel,North,09-09-2024,0.16,421,Cleaned and Validated
+merch1326,Johnson-Gonzales,Grocery,West,11-09-2021,0.2,1515,Cleaned and Validated
+merch1327,Johnson-Martin,Apparel,West,26-09-2021,0,1500,Cleaned and Validated
+merch1328,"Daniels, Velasquez And Jones",Food,North,20-06-2025,0.06,137,Cleaned and Validated
+merch1329,"Hurst, Jackson And Nguyen",Grocery,South,18-05-2025,0.14,170,Cleaned and Validated
+merch1330,Reed-Elliott,Online,East,05-11-2024,0.24,364,Cleaned and Validated
+merch1331,Jordan-Henry,Online,Central,04-03-2024,0.28,610,Cleaned and Validated
+merch1332,Hardy-Cochran,Grocery,South,07-11-2023,0.28,728,Cleaned and Validated
+merch1333,Garcia Group,Grocery,Central,24-09-2020,0.05,1867,Cleaned and Validated
+merch1334,"Baird, Alvarado And Smith",Food,West,06-01-2021,0.35,1763,Cleaned and Validated
+merch1335,Cox Plc,Online,Central,08-02-2022,0.2,1365,Cleaned and Validated
+merch1336,Saunders-Mcclure,Electronics,Central,20-08-2021,0.26,1537,Cleaned and Validated
+merch1337,Long-Briggs,Transport,Central,15-03-2022,0.18,1330,Cleaned and Validated
+merch1338,Henson Ltd,Apparel,East,05-07-2023,0.21,853,Cleaned and Validated
+merch1339,Rasmussen-Smith,Apparel,Central,23-09-2024,0.34,407,Cleaned and Validated
+merch1340,Torres Llc,Online,South,29-08-2023,0.32,798,Cleaned and Validated
+merch1341,Powers-Taylor,Apparel,Central,23-03-2024,0.14,591,Cleaned and Validated
+merch1342,Miller-Moore,Transport,North,21-10-2023,0.34,745,Cleaned and Validated
+merch1343,Perez Ltd,Grocery,North,10-01-2025,0.13,298,Cleaned and Validated
+merch1344,Wright And Sons,Apparel,East,10-12-2023,0.29,695,Cleaned and Validated
+merch1345,Reid And Sons,Online,North,24-03-2022,0.18,1321,Cleaned and Validated
+merch1346,Davis-Lopez,Electronics,West,24-03-2023,0.22,956,Cleaned and Validated
+merch1347,Gaines Group,Electronics,North,26-04-2021,0.11,1653,Cleaned and Validated
+merch1348,"Ferguson, Brown And Potter",Apparel,East,15-08-2024,0.08,446,Cleaned and Validated
+merch1349,Reilly And Sons,Grocery,East,31-05-2024,0.24,522,Cleaned and Validated
+merch1350,Cook-Wilkerson,Apparel,West,29-09-2022,0.08,1132,Cleaned and Validated
+merch1351,Klein Inc,Transport,East,30-04-2021,0.31,1649,Cleaned and Validated
+merch1352,"Weeks, Carroll And Leblanc",Food,North,20-10-2020,0.19,1841,Cleaned and Validated
+merch1353,"Allen, Guerrero And Tapia",Food,South,06-08-2020,0.05,1916,Cleaned and Validated
+merch1354,Bates And Sons,Online,West,10-06-2025,0.24,147,Cleaned and Validated
+merch1355,"Terry, Ponce And Williamson",Apparel,West,16-06-2024,0.28,506,Cleaned and Validated
+merch1356,"Watson, Chavez And Coleman",Food,Central,06-12-2021,0.22,1429,Cleaned and Validated
+merch1357,"Davis, Lopez And Anderson",Apparel,North,02-02-2024,0.12,641,Cleaned and Validated
+merch1358,Malone-Willis,Electronics,South,26-07-2021,0.08,1562,Cleaned and Validated
+merch1359,Brooks-Hampton,Transport,Central,22-02-2021,0.04,1716,Cleaned and Validated
+merch1360,Sheppard Plc,Food,West,02-04-2025,0.14,216,Cleaned and Validated
+merch1361,Jones-Holland,Online,Central,26-01-2023,0.12,1013,Cleaned and Validated
+merch1362,Morrison-Rhodes,Grocery,Central,13-04-2022,0.17,1301,Cleaned and Validated
+merch1363,"Branch, Hart And Rogers",Apparel,West,26-07-2021,0.31,1562,Cleaned and Validated
+merch1364,Taylor Llc,Transport,Central,23-05-2023,0.23,896,Cleaned and Validated
+merch1365,"Mcintyre, Rivera And Watson",Electronics,Central,25-03-2023,0.22,955,Cleaned and Validated
+merch1366,"Burton, Mora And Dixon",Apparel,Central,14-11-2020,0.22,1816,Cleaned and Validated
+merch1367,"Payne, Williams And Burgess",Online,West,16-03-2023,0.2,964,Cleaned and Validated
+merch1368,Thomas-Pacheco,Grocery,East,04-03-2023,0.11,976,Cleaned and Validated
+merch1369,Fleming-Stewart,Food,West,02-04-2025,0.16,216,Cleaned and Validated
+merch1370,Carr Inc,Online,East,14-11-2022,0.09,1086,Cleaned and Validated
+merch1371,Williams Llc,Online,North,11-11-2020,0.1,1819,Cleaned and Validated
+merch1372,Cole Inc,Grocery,South,06-05-2022,0,1278,Cleaned and Validated
+merch1373,Martin-Mccarty,Electronics,West,25-04-2024,0.08,558,Cleaned and Validated
+merch1374,Zhang And Sons,Online,South,20-06-2023,0.13,868,Cleaned and Validated
+merch1375,"Serrano, Guerrero And Anderson",Online,North,20-07-2022,0.17,1203,Cleaned and Validated
+merch1376,"Ramos, Smith And Davis",Electronics,East,02-02-2022,0.27,1371,Cleaned and Validated
+merch1377,Olson Ltd,Apparel,South,24-04-2025,0.29,194,Cleaned and Validated
+merch1378,Jackson-Robinson,Transport,North,12-03-2021,0.13,1698,Cleaned and Validated
+merch1379,Dawson-Moran,Food,West,10-11-2020,0.22,1820,Cleaned and Validated
+merch1380,Miller Group,Apparel,Central,05-01-2023,0.22,1034,Cleaned and Validated
+merch1381,Gillespie Llc,Apparel,North,11-10-2022,0.29,1120,Cleaned and Validated
+merch1382,Lin-Flynn,Food,North,11-05-2023,0.19,908,Cleaned and Validated
+merch1383,Bauer-Henry,Food,East,10-01-2021,0.13,1759,Cleaned and Validated
+merch1384,"Eaton, Brooks And Harris",Grocery,East,05-10-2022,0.25,1126,Cleaned and Validated
+merch1385,Kelly-Harper,Food,Central,12-11-2023,0.2,723,Cleaned and Validated
+merch1386,"Young, Moore And Lawrence",Electronics,North,17-11-2023,0.04,718,Cleaned and Validated
+merch1387,Schwartz Inc,Food,North,16-10-2024,0.01,384,Cleaned and Validated
+merch1388,Elliott-Rice,Grocery,South,05-09-2022,0.09,1156,Cleaned and Validated
+merch1389,Johnson Inc,Grocery,West,11-02-2021,0.02,1727,Cleaned and Validated
+merch1390,Reeves Inc,Electronics,North,11-10-2020,0.21,1850,Cleaned and Validated
+merch1391,"Ward, Sanchez And Yu",Transport,West,24-11-2023,0.35,711,Cleaned and Validated
+merch1392,"Thompson, Harris And Williams",Online,South,04-08-2023,0,823,Cleaned and Validated
+merch1393,Berger Llc,Online,North,06-04-2025,0,212,Cleaned and Validated
+merch1394,"Cruz, Pena And Farrell",Online,Central,17-06-2022,0.17,1236,Cleaned and Validated
+merch1395,Miller Llc,Food,West,01-07-2022,0.18,1222,Cleaned and Validated
+merch1396,Johnson-Valentine,Transport,North,06-04-2022,0,1308,Cleaned and Validated
+merch1397,Ward-Bell,Apparel,North,03-02-2022,0.06,1370,Cleaned and Validated
+merch1398,Thompson-Morris,Grocery,West,11-03-2024,0.13,603,Cleaned and Validated
+merch1399,Benton-Luna,Online,Central,02-02-2021,0.14,1736,Cleaned and Validated
+merch1400,Hanson And Sons,Electronics,North,21-09-2020,0.01,1870,Cleaned and Validated
+merch1401,Jones And Sons,Online,East,03-02-2022,0.01,1370,Cleaned and Validated
+merch1402,Davis-Johnson,Online,South,11-05-2023,0.25,908,Cleaned and Validated
+merch1403,Williams Plc,Electronics,Central,28-01-2023,0.12,1011,Cleaned and Validated
+merch1404,Riley And Sons,Online,West,11-11-2021,0.44,1454,Cleaned and Validated
+merch1405,"Vega, Espinoza And Green",Transport,East,29-10-2022,0.25,1102,Cleaned and Validated
+merch1406,Curtis-Silva,Online,North,13-12-2024,0.35,326,Cleaned and Validated
+merch1407,Parsons Llc,Electronics,North,06-09-2024,0,424,Cleaned and Validated
+merch1408,Norman-Brown,Electronics,East,20-12-2021,0.34,1415,Cleaned and Validated
+merch1409,Johnson Plc,Online,West,23-07-2024,0.18,469,Cleaned and Validated
+merch1410,"Jackson, Cooper And Newman",Electronics,West,12-12-2022,0.01,1058,Cleaned and Validated
+merch1411,Krause-Ashley,Online,North,22-06-2025,0.07,135,Cleaned and Validated
+merch1412,"Morgan, Gardner And Hamilton",Online,Central,19-03-2025,0,230,Cleaned and Validated
+merch1413,"Vaughan, Stein And Schmitt",Food,West,29-06-2024,0.11,493,Cleaned and Validated
+merch1414,"Kirby, Erickson And Schwartz",Apparel,Central,19-02-2021,0.16,1719,Cleaned and Validated
+merch1415,Allen-Mack,Transport,North,09-09-2022,0.02,1152,Cleaned and Validated
+merch1416,"Nelson, Wolfe And Webb",Grocery,West,05-02-2022,0.35,1368,Cleaned and Validated
+merch1417,Parsons-Hudson,Transport,East,25-09-2020,0.17,1866,Cleaned and Validated
+merch1418,Greene Inc,Grocery,North,30-11-2020,0.22,1800,Cleaned and Validated
+merch1419,Johnson Llc,Apparel,Central,12-05-2025,0.08,176,Cleaned and Validated
+merch1420,Robertson And Sons,Food,North,19-06-2021,0.2,1599,Cleaned and Validated
+merch1421,"Davis, Kim And Brown",Transport,Central,16-10-2022,0.21,1115,Cleaned and Validated
+merch1422,Rivera And Sons,Apparel,East,02-02-2025,0.29,275,Cleaned and Validated
+merch1423,Thompson Inc,Electronics,West,16-02-2022,0.17,1357,Cleaned and Validated
+merch1424,Drake Ltd,Food,East,27-09-2024,0.19,403,Cleaned and Validated
+merch1425,"Simmons, Smith And Thomas",Transport,East,08-05-2022,0.13,1276,Cleaned and Validated
+merch1426,Oconnor-Fisher,Grocery,South,26-01-2022,0.11,1378,Cleaned and Validated
+merch1427,"Evans, Harris And Fuentes",Apparel,Central,03-10-2022,0.23,1128,Cleaned and Validated
+merch1428,"Williams, Obrien And Brooks",Electronics,South,06-05-2023,0.27,913,Cleaned and Validated
+merch1429,"Barrett, Ramirez And Cross",Online,North,28-05-2025,0,160,Cleaned and Validated
+merch1430,Davis-Berry,Online,South,06-11-2024,0.41,363,Cleaned and Validated
+merch1431,"Larson, Gonzalez And Lara",Online,East,10-06-2024,0.13,512,Cleaned and Validated
+merch1432,"Reese, Williamson And Hudson",Transport,South,26-02-2025,0.14,251,Cleaned and Validated
+merch1433,Mccoy Plc,Transport,West,30-03-2024,0.23,584,Cleaned and Validated
+merch1434,Montgomery-Castaneda,Grocery,East,26-08-2020,0.18,1896,Cleaned and Validated
+merch1435,Evans Llc,Transport,Central,01-05-2022,0.08,1283,Cleaned and Validated
+merch1436,"Lambert, Moore And Young",Electronics,West,11-06-2023,0.46,877,Cleaned and Validated
+merch1437,Turner-Jackson,Apparel,North,29-12-2021,0.16,1406,Cleaned and Validated
+merch1438,Valdez Group,Transport,North,01-06-2022,0.31,1252,Cleaned and Validated
+merch1439,Russo Ltd,Transport,West,17-10-2023,0.14,749,Cleaned and Validated
+merch1440,Jones Plc,Electronics,South,06-08-2024,0.1,455,Cleaned and Validated
+merch1441,"Smith, Mays And Wheeler",Grocery,Central,06-05-2022,0.12,1278,Cleaned and Validated
+merch1442,Bauer Group,Transport,North,02-11-2022,0.22,1098,Cleaned and Validated
+merch1443,Jones-Fox,Transport,South,25-03-2024,0.14,589,Cleaned and Validated
+merch1444,"Thompson, Young And Conley",Electronics,Central,27-03-2022,0.14,1318,Cleaned and Validated
+merch1445,Soto-Robinson,Transport,West,13-01-2022,0.26,1391,Cleaned and Validated
+merch1446,Taylor Inc,Electronics,East,02-10-2021,0.09,1494,Cleaned and Validated
+merch1447,Mills And Sons,Electronics,East,30-07-2025,0.27,97,Cleaned and Validated
+merch1448,Wright-Smith,Apparel,East,07-01-2021,0.3,1762,Cleaned and Validated
+merch1449,Hinton Group,Apparel,North,13-08-2023,0.18,814,Cleaned and Validated
+merch1450,Yates-Malone,Food,West,07-08-2023,0.16,820,Cleaned and Validated
+merch1451,"Cervantes, Watkins And Lozano",Grocery,East,07-09-2022,0.08,1154,Cleaned and Validated
+merch1452,Scott-Williams,Food,South,15-03-2021,0.14,1695,Cleaned and Validated
+merch1453,Carr Plc,Apparel,West,14-09-2023,0.08,782,Cleaned and Validated
+merch1454,"Walsh, Morris And Gray",Apparel,West,03-07-2023,0.26,855,Cleaned and Validated
+merch1455,Powell Inc,Food,West,20-12-2021,0.24,1415,Cleaned and Validated
+merch1456,"Hubbard, Padilla And Herrera",Grocery,West,19-12-2023,0.16,686,Cleaned and Validated
+merch1457,Walls-Wells,Grocery,North,02-05-2024,0.38,551,Cleaned and Validated
+merch1458,Holmes Llc,Electronics,East,16-09-2020,0.11,1875,Cleaned and Validated
+merch1459,Brown Inc,Online,West,25-12-2022,0.24,1045,Cleaned and Validated
+merch1460,"Williamson, Burns And Harris",Apparel,West,12-02-2024,0.23,631,Cleaned and Validated
+merch1461,Brown Llc,Grocery,West,06-02-2025,0,271,Cleaned and Validated
+merch1462,Baker-Bowers,Electronics,North,11-09-2023,0.18,785,Cleaned and Validated
+merch1463,Allen-Campos,Electronics,East,12-03-2021,0.24,1698,Cleaned and Validated
+merch1464,Mcfarland Group,Online,West,14-08-2023,0.07,813,Cleaned and Validated
+merch1465,"Wilson, Henry And Brown",Transport,Central,28-01-2023,0.22,1011,Cleaned and Validated
+merch1466,Zimmerman Plc,Food,Central,17-08-2024,0.16,444,Cleaned and Validated
+merch1467,Smith-Owens,Apparel,East,20-01-2021,0.06,1749,Cleaned and Validated
+merch1468,Nguyen Llc,Electronics,Central,14-09-2023,0.38,782,Cleaned and Validated
+merch1469,"Turner, Schwartz And Powell",Electronics,West,15-12-2024,0.22,324,Cleaned and Validated
+merch1470,"Williams, Guzman And Blackwell",Apparel,North,23-05-2022,0.2,1261,Cleaned and Validated
+merch1471,Armstrong-Brown,Apparel,East,10-03-2025,0.5,239,Cleaned and Validated
+merch1472,Castro-Gilbert,Food,North,03-04-2022,0.1,1311,Cleaned and Validated
+merch1473,"Reeves, Guzman And Perry",Apparel,North,06-01-2022,0.04,1398,Cleaned and Validated
+merch1474,Coleman Inc,Transport,North,21-04-2022,0.11,1293,Cleaned and Validated
+merch1475,"Kaiser, Bradford And Park",Food,East,13-08-2020,0.06,1909,Cleaned and Validated
+merch1476,"Graves, Reyes And Schmidt",Grocery,East,24-08-2022,0.2,1168,Cleaned and Validated
+merch1477,Jones-Blanchard,Apparel,West,28-02-2023,0.26,980,Cleaned and Validated
+merch1478,Hoffman-Trujillo,Online,Central,08-10-2022,0,1123,Cleaned and Validated
+merch1479,"Mitchell, Davis And Green",Online,South,29-04-2023,0.13,920,Cleaned and Validated
+merch1480,Frazier-Alexander,Electronics,Central,18-09-2022,0.03,1143,Cleaned and Validated
+merch1481,Lara-Holden,Apparel,South,10-06-2023,0.19,878,Cleaned and Validated
+merch1482,Jordan Plc,Electronics,East,16-05-2023,0.09,903,Cleaned and Validated
+merch1483,Bautista-Bishop,Online,North,03-02-2025,0.25,274,Cleaned and Validated
+merch1484,"Hicks, Powell And Sanchez",Grocery,West,10-07-2025,0.03,117,Cleaned and Validated
+merch1485,Burnett-Stevens,Apparel,Central,21-02-2023,0.05,987,Cleaned and Validated
+merch1486,Floyd Ltd,Apparel,Central,27-05-2021,0.04,1622,Cleaned and Validated
+merch1487,Smith-Morrison,Apparel,East,01-06-2022,0.31,1252,Cleaned and Validated
+merch1488,Medina-Kelley,Grocery,South,22-04-2025,0.45,196,Cleaned and Validated
+merch1489,Collins-Roberts,Grocery,North,04-08-2025,0.16,92,Cleaned and Validated
+merch1490,"Browning, Spencer And Guerra",Food,South,26-10-2024,0.09,374,Cleaned and Validated
+merch1491,"Gaines, Frye And Cunningham",Online,South,23-03-2022,0,1322,Cleaned and Validated
+merch1492,"Wagner, Lewis And Freeman",Food,Central,08-10-2024,0.34,392,Cleaned and Validated
+merch1493,Barnes Ltd,Apparel,North,03-03-2024,0.17,611,Cleaned and Validated
+merch1494,Johnson Inc,Food,West,08-10-2021,0.05,1488,Cleaned and Validated
+merch1495,Daniels-Brown,Grocery,East,10-09-2022,0.29,1151,Cleaned and Validated
+merch1496,"Jones, Rodriguez And Pierce",Online,South,26-01-2024,0.07,648,Cleaned and Validated
+merch1497,Boyd-Miller,Online,South,07-06-2022,0.14,1246,Cleaned and Validated
+merch1498,"Ho, Taylor And Valentine",Electronics,East,21-06-2024,0,501,Cleaned and Validated
+merch1499,"Schmidt, Davis And Oconnor",Electronics,North,06-04-2021,0.2,1673,Cleaned and Validated
