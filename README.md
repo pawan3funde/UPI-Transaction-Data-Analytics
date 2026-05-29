@@ -85,6 +85,9 @@ The project integrates seven datasets:
 ---
 
 ## Dashboard Preview
+<img width="1152" height="738" alt="dash01" src="https://github.com/user-attachments/assets/61c4232b-979b-4eee-a300-c520a1be287a" />
+
+<img width="1148" height="738" alt="dash02" src="https://github.com/user-attachments/assets/ef98641d-0ca3-4628-a34a-4a9ad1a4f902" />
 
 ### Executive Dashboard
 
